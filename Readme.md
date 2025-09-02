@@ -27,7 +27,8 @@ O usuário digita seu nome e o nome de um filme, e o site exibe título, ano, di
 - 🔎 Consulta à OMDb API  
 - 📝 Exibição de detalhes: título, ano, diretor, gênero, nota IMDb e poster  
 - ⚠️ Alerta caso algum campo esteja vazio  
-- ⚠️ Mensagem de “Filme não encontrado” caso não haja correspondência  
+- ⚠️ Mensagem de “Filme não encontrado” caso não haja correspondência
+- 📱 Interface responsiva, funcionando bem em celular, tablet e desktop
 
 ---
 
